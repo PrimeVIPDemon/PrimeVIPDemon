@@ -6,7 +6,7 @@ Penetration Tester
 
 I am a penetration tester who loves gaming!
 
-* 🌍  I'm based in Texas
+* 🌍  I'm based in the United States
 * ✉️  You can contact me at [theheroayaan@gmail.com](mailto:theheroayaan@gmail.com)
 * 🧠  I'm currently learning Quant Finance and Burp Suite
 * 👥  I'm looking to collaborate on Web Applications Security
